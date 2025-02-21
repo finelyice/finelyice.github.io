@@ -6,6 +6,23 @@
         <description>Recent content in Categories on finelyice</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>dxm</copyright><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>dxm</copyright>
+        <lastBuildDate>Fri, 21 Feb 2025 20:31:32 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2024</title>
+        <link>https://example.com/categories/2024/</link>
+        <pubDate>Fri, 21 Feb 2025 20:31:32 +0800</pubDate>
+        
+        <guid>https://example.com/categories/2024/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>2025</title>
+        <link>https://example.com/categories/2025/</link>
+        <pubDate>Fri, 21 Feb 2025 20:31:32 +0800</pubDate>
+        
+        <guid>https://example.com/categories/2025/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
