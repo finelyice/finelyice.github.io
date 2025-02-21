@@ -8,6 +8,12 @@
     <loc>https://example.com/post/</loc>
     <lastmod>2025-02-21T22:06:30+08:00</lastmod>
   </url><url>
+    <loc>https://example.com/test/</loc>
+    <lastmod>2025-02-21T20:31:32+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/my-first-post/</loc>
+    <lastmod>2025-02-21T13:06:30+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
   </url><url>
     <loc>https://example.com/tags/</loc>
