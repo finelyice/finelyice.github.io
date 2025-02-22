@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tests on finelyice</title>
-        <link>https://example.com/test/</link>
+        <link>https://finelyice.github.io/test/</link>
         <description>Recent content in Tests on finelyice</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>dxm</copyright>
-        <lastBuildDate>Fri, 21 Feb 2025 20:31:32 +0800</lastBuildDate><atom:link href="https://example.com/test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Feb 2025 20:31:32 +0800</lastBuildDate><atom:link href="https://finelyice.github.io/test/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://example.com/test/test/</link>
+        <link>https://finelyice.github.io/test/test/</link>
         <pubDate>Fri, 21 Feb 2025 20:31:32 +0800</pubDate>
         
-        <guid>https://example.com/test/test/</guid>
+        <guid>https://finelyice.github.io/test/test/</guid>
         <description>&lt;p&gt;hamu&lt;/p&gt;
 </description>
         </item>
