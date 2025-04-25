@@ -7,37 +7,6 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>dxm</copyright>
-        <lastBuildDate>Fri, 21 Feb 2025 20:31:32 +0800</lastBuildDate><atom:link href="https://finelyice.github.io/test/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://finelyice.github.io/test/1/my-first-post/</link>
-        <pubDate>Fri, 21 Feb 2025 20:31:32 +0800</pubDate>
-        
-        <guid>https://finelyice.github.io/test/1/my-first-post/</guid>
-        <description>&lt;p&gt;hamu&lt;/p&gt;
-&lt;p&gt;are you receiving this?&lt;/p&gt;
-
-
-
-
-
-
-    
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=7&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;A famous person, &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Book&#34;&gt;&lt;cite&gt;The book they wrote&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
-</description>
-        </item>
-        
+        <lastBuildDate></lastBuildDate><atom:link href="https://finelyice.github.io/test/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
